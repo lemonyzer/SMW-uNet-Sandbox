@@ -1,0 +1,16 @@
+extraction_destination_respective_repo_root_path
+         path = R:\extractTest\uNet Sandbox\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_worked_on_platformjumper\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_worked_on_platformjumper_optimization\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_several_changes_fixes_and_optimizations (strucure of animcontroller state positions)\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox(SFConflict, before ramstein fix)\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_sfconflict_fix\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_1_AssetTools_integration\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_2_TagsAndLayersReflection\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_3_SmallFixing\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_4_CharEditor_FrictionEffect_Networking\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_5_small_Changes\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_6_INIT_DeactivatedScripts\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_7_AnimatorController\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_7z_8_somthing_between_7and8\uNet Sandbox
+         path = R:\extractTest\uNet Sandbox_ramstein_8_flip_skid_effect\uNet Sandbox
